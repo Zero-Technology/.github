@@ -23,5 +23,7 @@ Zero Technology — это сообщество энтузиастов и раз
 
 # Contact 
 
+
 discord - lodsink
+
 github - notsink
